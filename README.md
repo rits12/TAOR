@@ -9,3 +9,9 @@ This project has involved lots of coding and technical tools — also, due to my
 It might seem outlandish, but I plan to produce this game in a way such that only those who truly know me would understand its significance. All of the characters’ designs illustrate my friends, and the action indirectly depicts the major events in my life thus far. As I experience new things and meet people, The Adventures will continue to expand, one day serving as a secret autobiography. 
 
 For my The Adventures of Rutvak demo, I used Phaser, an open source framework for rendering games in a browser. I looked to the ULSW DeviantArt community for inspiration in sprite design style. TexturePacker was used to put sprites in JSON arrays, later accessed by my JS game code and compiled through a Python HTTP server. 
+
+
+```Animation phase of project```
+
+https://user-images.githubusercontent.com/63021971/188488772-da293057-d641-4812-b9ce-55ce25e7aad3.mp4
+

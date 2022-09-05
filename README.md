@@ -15,3 +15,8 @@ For my The Adventures of Rutvak demo, I used Phaser, an open source framework fo
 
 https://user-images.githubusercontent.com/63021971/188488772-da293057-d641-4812-b9ce-55ce25e7aad3.mp4
 
+```Gameplay demo```
+
+
+https://user-images.githubusercontent.com/63021971/188489632-098626cb-93ed-4b4f-aea0-7c1d78bd33e4.mp4
+
